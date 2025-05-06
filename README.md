@@ -8,7 +8,7 @@
 ---
 
 ## **🛠️ Skills & Tools Used:**  
-- **Control Theory:** Designed **linear** (1.3) and **nonlinear** (1.5) height-control laws for hyperboloid adjustment. 📐🔧  
+- **Control Theory:** Designed **linear** and **nonlinear** height-control laws for hyperboloid adjustment. 📐🔧  
 - **Nonlinear Optimization:** Formulated NLP problems with constraints (volume, cross-section area) for hyperboloid as **solid body** (2.12) and **surface** (2.13). 🧮⚙️  
 - **Software:**  
   - **MATLAB** 🖥️: Implemented **spatial grid traversal** to solve NLP, visualize results (e.g., inertia vs. height).  
